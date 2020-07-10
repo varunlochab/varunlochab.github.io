@@ -33,7 +33,6 @@ Lastly, I have worked on the analysis of electrochemical impedance spectroscopy 
 
 For more info
 ------
-Varun Lochab 
 
 Email: varun.1@osu.edu
 
