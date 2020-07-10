@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+_This website is under construction. Please visit later._
 
 I work as a Graduate Research Associate in the Department of Mechanical and Aerospace Engineering at The Ohio State University. In the last few years, I have worked at the confluence of engineering and biology on topics like _colloidal migration and assembly_, _electrochemical treatment of biofilms_, and _impedance spectroscopy of biological tissues_.
 
