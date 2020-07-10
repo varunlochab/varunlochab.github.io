@@ -11,49 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Mechanical Engineering, Indian Institute of Technology (ISM), Dhanbad, 2013 (formerly known as Indian School of Mines, Dhanbad)
+* M.S. in Mechanical Engineering, The Ohio State University, 2020
+* Ph.D in Mechanial Engineering, The Ohio State University, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Graduate Research Associate
+  * Department of Mechanical and Aerospace Engineering
+  * The Ohio State University
+  * Supervisor: Dr. Shaurya Prakash
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020: Graduate Teaching Assistant
+  * Course: Introduction to Measurements and Data Analysis in Mechanical Engineering
+  * Department of Mechanical and Aerospace Engineering
+  * The Ohio State University
+  * Supervisor: Dr. Vishnu Sundaresan
+  * Duties: Instructed four lab sections per week, demonstrated experiments, taught data collection and analysis using LabVIEW and MATLAB 
+
+* Spring 2016 - Fall 2019: Graduate Research Associate
+  * Department of Mechanical and Aerospace Engineering
+  * The Ohio State University
+  * Supervisor: Dr. Shaurya Prakash
+  
+* Fall 2013 - Spring 2015: Assistant Manager
+  * Research and Development, Enginer Testing Department
+  * Hero MotoCorp Ltd., India
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 4 years’ clean room experience in micro- and nanofabrication processes for microfluidic and nanofluidic applications.
+* Trained on semiconductor device fabrication including photolithography, oxidation, diffusion, chemical processes, reactive ion etching, and metallization.
+* 3 years’ experience in biosafety level 2 (BSL-2) lab for microbiology research.
+* Imaging and spectroscopy experience: Transmission Electron Microscopy, Scanning Electron Microscopy, Atomic Force Microscopy, Confocal Fluorescence Microscopy, Brightfield/Darkfield/Phase-contrast Microscopy, Raman Spectroscopy, Fourier-transform Infrared Spectroscopy (FTIR) and Microscopy.
+* Software: LabVIEW, MATLAB, COMSOL Multiphysics, Python, AutoCAD, CATIA, MS Office.
 
-Publications
+First-author Journal Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* V. Lochab, A. Yee, M. Yoda, A. T, Conlisk., S. Prakash. Ultrastructure imaging of Pseudomonas aeruginosa lawn biofilms and eradication of the tobramycin-resistant variants under _in vitro_ electroceutical treatment.  _Scientific Reports_ 10, 9879 (2020).
+* V. Lochab, T. H. Jones, E. Alkandry, J. D. West, M. Abdel-Rahman, V. V. Subramaniam, and S. Prakash. Evaluation of electrical properties of _ex vivo_ human hepatic tissue with metastatic colorectal cancer. Submitted to _Physiological Measurement_, 2020 (In revision).
+* V. Lochab, A. Yee, M. Yoda, A. T, Conlisk., S. Prakash. Dynamics of colloidal particles in microchannels under combined pressure and electric potential gradients. _Microfluidics and Nanofluidics_ (2019) 23: 134.	
+* D.H. Dusane, V. Lochab., T.  Jones, C.W. Peters, D. Sindeldecker, A. Das, S. Roy, C. K. Sen, V. V. Subramaniam, D.J. Wozniak, and S. Prakash, P. Stoodley. Electroceutical treatment of Pseudomonas aeruginosa biofilms. _Scientific reports_ (2019), 9(1). Co-first author.
+* V. Lochab and S. Prakash. Electrophoresis-induced migration of colloidal particles in microscale Poiseuille flows. Projected submission by July 2020.
+* V. Lochab and S. Prakash. Self-assembly of colloidal particles into high-aspect ratio structures on nanoporous substrates. Projected submission by August/September 2020.
   
-Talks
+Other Publications in Journal and Conference Proceedings
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* S. Roy, S. Prakash, S. S. Mathew-Steiner, P. D. Ghatak, V. Lochab, T. H. Jones, P. M. Sundaram, G. M. Gordillo, V. V. Subramaniam. C. K. Sen, Disposable patterned electroceutical dressing (ped-10) is safe for treatment of open clinical chronic wounds. _Advances in Wound Care_ (2019), 8 (4).
+* R. Heald, M. Bennett, V.V. Subramaniam, D. Dusane, V. Lochab, P. M. Sundaram, S. Salyer, J. D. West, P. Stoodley, and S. Prakash. Printed electroceutical dressings for the inhibition of biofilms and treatment of chronic wounds. _Journal of Microelectromechanical Systems_ (2020).
+* V. Lochab, A. Yee, Y. Li, M. Yoda, A. T. Conlisk, and S. Prakash. Directed self-assembly of colloidal particles for high aspect ratio bands. Head Workshop 2018: A Solid-State Sensors, Actuators and Microsystems Workshop. 
+* V. Lochab, E. Alkandry, T.H. Jones, M. Abdel-Rahman, E. W. Martin Jr., C. R. Schmidt, S.R. Abdel-Misih, M. Bloomston, V.V. Subramaniam, and S. Prakash. µ-Electrochemical impedance spectroscopy for identifying spatial heterogeneity in tumor bearing hepatic tissue. The 21st International Conference on Miniaturized Systems for Chemistry and Life Sciences, µTAS 2017.
+* V. Lochab, T. H. Jones, D. H. Dusane, C. K. Sen, S. Roy, P. Stoodley, D. Wozniak, V. V. Subramaniam, and S. Prakash. Mechanistic determination of electroceutical bactericidal effects on Pseudomonas aeruginosa biofilms. The 21st International Conference on Miniaturized Systems for Chemistry and Life Sciences, µTAS 2017. 
+* K. Rangharajan, V. Lochab and S. Prakash. Desalting high salinity shale flowback water via high-flux nanofluidic evaporation-condensation. IEEE 30th International Conference on Micro-Electro-Mechanical Systems (MEMS), Las Vegas, NV, 2017, pp. 60-63.
+* C. Boone, V. Lochab, M. Fuest, and S. Prakash. Time-dependent gating in nanofluidic channels for active electric double layer modulation for ion transport control. Technical Digest of the Hilton Head Workshop 2016: A Solid-State Sensors, Actuators and Microsystems Workshop, Hilton Head, South Carolina. 
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
