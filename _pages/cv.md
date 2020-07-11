@@ -30,7 +30,7 @@ Work experience
   * Course: Introduction to Measurements and Data Analysis in Mechanical Engineering
   * Department of Mechanical and Aerospace Engineering
   * The Ohio State University
-  * Supervisor: Dr. Vishnu Sundaresan
+  * Supervisor: Dr. Vishnu Sundaresan, Dr. Matthew Detrick
   * Duties: Instructed four lab sections per week, demonstrated experiments, taught data collection and analysis using LabVIEW and MATLAB 
 
 * Spring 2016 - Fall 2019: Graduate Research Associate
