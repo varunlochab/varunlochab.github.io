@@ -31,10 +31,3 @@ These projects present the design and implementation of integrated systems possi
 
 Lastly, I have worked on the analysis of electrochemical impedance spectroscopy on ex vivo human hepatic tissue from colorectal cancer patients with liver metastasis. Specifically, I have analyzed the spatial distribution of electrical properties within the tissue and their relation with histological structure.
 
-
-For more info
-------
-
-Email: varun.1@osu.edu
-
-Phone: +1 614-615-0742
