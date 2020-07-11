@@ -8,11 +8,11 @@ date: 2019
 location: "Columbus, OH, USA"
 ---
 
-Course Name: Measurement Systems and Data Analysis
+* Course Name: Measurement Systems and Data Analysis
 
-Supervisor: Dr. Vishnu Sundaresan, Dr. Matthew Detrick
+* Supervisor: Dr. Vishnu Sundaresan, Dr. Matthew Detrick
 
-Duties: 
- * Instructed four lab sections per week.
- * Demonstrated several engineering experiments, data collection, and data analysis using LabVIEW and MATLAB.
- * Guided student groups for the end-term project.
+* Duties: 
+ 1. Instructed four lab sections per week.
+ 2. Demonstrated several engineering experiments, data collection, and data analysis using LabVIEW and MATLAB.
+ 3. Guided student groups for the end-term project.
