@@ -1,12 +1,15 @@
 # main links links
 main:
-  - title: "Projects and Publications"
+  - title: "Publications"
     url: /publications/  
 
   - title: "Teaching"
     url: /teaching/    
         
   - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "Research Interests"
     url: /year-archive/
     
   - title: "CV"
