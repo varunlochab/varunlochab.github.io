@@ -14,6 +14,11 @@ Education
 * M.S. in Mechanical Engineering, The Ohio State University, 2020
 * Ph.D in Mechanial Engineering, The Ohio State University, 2020 (expected)
 
+Coursework Highlights
+======
+
+• Honors Intermediate Electricity and Magnetism • Honors Advanced Electricity and Magnetism • Quantum Mechanics for Scientists and Engineers (Online) • Honors Quantum Mechanics 2 • Statistical Mechanics (Not completed yet) • Molecular Simulation of Materials • Numerical and Statistical Methods • Intermediate Numerical Methods • Intermediate Fluid Mechanics • Intermediate Heat Transfer • Solid State Microelectronics Laboratory • Nanotechnology and Biomimetics • Electrochemistry • Introduction to Microfluidics and Nanofluidics • Mechanics of Biomolecular Systems • Electrical Technology • Applied Electrical Engineering • Mechanical Vibrations • Measurements and Control
+
 Work experience
 ======
 * Summer 2020: Graduate Research Associate
