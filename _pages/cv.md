@@ -52,9 +52,9 @@ Skills
 
 First-author Journal Publications
 ======
-* V. Lochab, A. Yee, M. Yoda, A. T, Conlisk., S. Prakash. Ultrastructure imaging of Pseudomonas aeruginosa lawn biofilms and eradication of the tobramycin-resistant variants under _in vitro_ electroceutical treatment.  _Scientific Reports_ 10, 9879 (2020).
+* V. Lochab, A. Yee, M. Yoda, A. T. Conlisk., S. Prakash. Ultrastructure imaging of Pseudomonas aeruginosa lawn biofilms and eradication of the tobramycin-resistant variants under _in vitro_ electroceutical treatment.  _Scientific Reports_ 10, 9879 (2020).
 * V. Lochab, T. H. Jones, E. Alkandry, J. D. West, M. Abdel-Rahman, V. V. Subramaniam, and S. Prakash. Evaluation of electrical properties of _ex vivo_ human hepatic tissue with metastatic colorectal cancer. Submitted to _Physiological Measurement_, 2020 (In revision).
-* V. Lochab, A. Yee, M. Yoda, A. T, Conlisk., S. Prakash. Dynamics of colloidal particles in microchannels under combined pressure and electric potential gradients. _Microfluidics and Nanofluidics_ (2019) 23: 134.	
+* V. Lochab, A. Yee, M. Yoda, A. T. Conlisk., S. Prakash. Dynamics of colloidal particles in microchannels under combined pressure and electric potential gradients. _Microfluidics and Nanofluidics_ (2019) 23: 134.	
 * D.H. Dusane, V. Lochab., T.  Jones, C.W. Peters, D. Sindeldecker, A. Das, S. Roy, C. K. Sen, V. V. Subramaniam, D.J. Wozniak, and S. Prakash, P. Stoodley. Electroceutical treatment of Pseudomonas aeruginosa biofilms. _Scientific reports_ (2019), 9(1). Co-first author.
 * V. Lochab and S. Prakash. Electrophoresis-induced migration of colloidal particles in microscale Poiseuille flows. Projected submission by July 2020.
 * V. Lochab and S. Prakash. Self-assembly of colloidal particles into high-aspect ratio structures on nanoporous substrates. Projected submission by August/September 2020.
