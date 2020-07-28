@@ -7,6 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-E-mail: varun.1 at osu dot edu
-Personal E-mail: lochab dot varun at gmail dot com
+* E-mail (work): varun.1 at osu dot edu
+* E-mail (personal): lochab dot varun at gmail dot com
 
