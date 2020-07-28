@@ -9,7 +9,7 @@ redirect_from:
 ---
 _This website is under construction. Please visit later._
 
-I work as a Graduate Research Associate in the Department of Mechanical and Aerospace Engineering at The Ohio State University. In the last few years, I have worked at the confluence of engineering and biology on topics like _colloidal migration and assembly_, _electrochemical treatment of biofilms_, and _impedance spectroscopy of biological tissues_.
+I work as a Graduate Research Associate in the Department of Mechanical and Aerospace Engineering at The Ohio State University. In the last few years, I have worked at the confluence of engineering and biology on topics like _colloidal migration and assembly in combined shear and electrokinetic flows_,_electrochemical treatment and ultrastructure imaging of biofilms_,_impedance spectroscopy of biological tissues_.
 
 Past Research
 ======
