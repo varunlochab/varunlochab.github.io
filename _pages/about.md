@@ -29,5 +29,5 @@ These projects present the design and implementation of integrated systems possi
 
 ### Impedance Spectroscopy on Biological Tissues
 
-Lastly, I have worked on the analysis of electrochemical impedance spectroscopy on ex vivo human hepatic tissue from colorectal cancer patients with liver metastasis. Specifically, I have analyzed the spatial distribution of electrical properties within the tissue and their relation with histological structure.
+Lastly, I have worked on the analysis of electrochemical impedance spectroscopy on _ex vivo_ human hepatic tissue from colorectal cancer patients with liver metastasis. Specifically, I have analyzed and reported (Physiological Measurements, 2020, in press) the spatial distribution of electrical properties within the tissue and their relation with histological structure.
 
