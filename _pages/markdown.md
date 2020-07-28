@@ -7,6 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-E-mail: [varun.1@osu.edu](varun.1@osu.edu) and [lochab.varun@gmail.com](lochab.varun@gmail.com)
+E-mail: varun.1 at osu dot edu
+Personal E-mail: lochab dot varun at gmail dot com
 
-Phone: +1 614-615-0742
