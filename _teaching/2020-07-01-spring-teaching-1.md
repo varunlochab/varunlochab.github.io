@@ -2,7 +2,7 @@
 title: "Graduate Teaching Associate"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-07-01-spring-teaching-1.md
+permalink: /teaching/2020-07-01-spring-teaching-1
 venue: "The Ohio State University, Department of Mechanical and Aerospace Engineering"
 date: 2020-07-01
 location: "Columbus, OH, USA"
