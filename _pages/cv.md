@@ -17,9 +17,9 @@ Education
 Coursework Highlights
 ======
 
-• Honors Intermediate Electricity and Magnetism • Honors Advanced Electricity and Magnetism • Honors Quantum Mechanics 2 • Statistical Mechanics (Current) • Molecular Simulation of Materials • Numerical and Statistical Methods • Intermediate Numerical Methods • Intermediate Fluid Mechanics • Intermediate Heat Transfer • Solid State Microelectronics Laboratory • Nanotechnology and Biomimetics • Electrochemistry • Introduction to Microfluidics and Nanofluidics • Mechanics of Biomolecular Systems • Electrical Technology • Applied Electrical Engineering • Mechanical Vibrations • Measurements and Control
+• Honors Intermediate Electricity and Magnetism • Honors Advanced Electricity and Magnetism • Honors Quantum Mechanics 2 • Statistical Mechanics (on-going) • Molecular Simulation of Materials • Numerical and Statistical Methods • Intermediate Numerical Methods • Intermediate Fluid Mechanics • Intermediate Heat Transfer • Solid State Microelectronics Laboratory • Nanotechnology and Biomimetics • Electrochemistry • Introduction to Microfluidics and Nanofluidics • Mechanics of Biomolecular Systems • Electrical Technology • Applied Electrical Engineering • Mechanical Vibrations • Measurements and Control
 
-_Supplementary Online Coursework:_ • Quantum Mechanics for Scientists and Engineers ([Online Course](/files/QuantumMechanics_Certificate1.pdf)) • Intdroduction to Complex Analysis ([Online Course](/files/Certificate_ComplexAnalysis.pdf)) • Astrophysics ([Online Course 1](/files/Certificate1_Astronomy.pdf), [Online Course 1](/files/Certificate2_Astronomy.pdf)) • Semiconductor Physics (on-going) • Data-driven Astronomy (on-going) • Quantum Optics (on-going)
+_Supplementary Online Coursework:_ • Quantum Mechanics for Scientists and Engineers ([Online Course](/files/QuantumMechanics_Certificate1.pdf)) • Introduction to Complex Analysis ([Online Course](/files/Certificate_ComplexAnalysis.pdf)) • Astrophysics ([Online Course 1](/files/Certificate1_Astronomy.pdf), [Online Course 2](/files/Certificate2_Astronomy.pdf)) • Semiconductor Physics (on-going) • Data-driven Astronomy (on-going) • Quantum Optics (on-going)
 
 Work experience
 ======
