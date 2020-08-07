@@ -16,3 +16,9 @@ location: "Columbus, OH, USA"
  1. Instructed four lab sections per week.
  2. Demonstrated several engineering experiments, data collection, and data analysis using LabVIEW and MATLAB.
  3. Guided student groups for the end-term project.
+ 
+ * Student Evaluation of Instruction (SEI)
+  1. Section 1: [SEI Results](/files/SEI3.pdf)
+  2. Section 2: [SEI Results](/files/SEI2.pdf)
+  3. Section 3: [SEI Results](/files/SEI1.pdf)
+  4. Section 4: [SEI Results](/files/SEI4.pdf)
