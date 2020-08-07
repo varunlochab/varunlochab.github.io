@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Mechanical Engineering, Indian Institute of Technology (ISM), Dhanbad, 2013 (formerly known as Indian School of Mines, Dhanbad)
-* M.S. in Mechanical Engineering, The Ohio State University, 2020
-* Ph.D in Mechanial Engineering, The Ohio State University, 2020 (expected)
+* B.Tech. in Mechanical Engineering, Indian Institute of Technology (ISM), Dhanbad, 2009-13 (formerly known as Indian School of Mines, Dhanbad)
+* M.S. in Mechanical Engineering, The Ohio State University
+* Ph.D in Mechanial Engineering, The Ohio State University, 2015-20 (expected)
 
 Coursework Highlights
 ======
