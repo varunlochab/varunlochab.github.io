@@ -17,7 +17,7 @@ location: "Columbus, OH, USA"
  2. Demonstrated several engineering experiments, data collection, and data analysis using LabVIEW and MATLAB.
  3. Guided student groups for the end-term project.
  
- * Student Evaluation of Instruction (SEI)
+* Student Evaluation of Instruction (SEI)
   1. Section 1: [SEI Results](/files/SEI_1.pdf)
   2. Section 2: [SEI Results](/files/SEI_2.pdf)
   3. Section 3: [SEI Results](/files/SEI_3.pdf)
