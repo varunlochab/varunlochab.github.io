@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience 1"
+title: "Graduate Teaching Associate"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-07-01-spring-teaching-1
