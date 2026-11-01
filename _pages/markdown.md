@@ -1,12 +1,9 @@
 ---
 permalink: /markdown/
-title: " "
+title: "Contact"
 author_profile: true
-redirect_from: 
+redirect_to: /contact/
+redirect_from:
   - /md/
   - /markdown.html
 ---
-
-* E-mail (work): varun.1 at osu dot edu
-* E-mail (personal): lochab dot varun at gmail dot com
-

@@ -1,37 +1,70 @@
 ---
 permalink: /
-title: "Introduction"
-excerpt: "About me"
+title: "About me"
+excerpt: "Quantum gravity and quantum field theory, with earlier work in atomic physics, microfluidics, and biological systems."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-_This website is under construction. Please visit later._
 
-I work as a postdoctoral researcher in the Department of Physics at University of Wisconsin-Madison. In the last few years, I have worked at the confluence of engineering and biology. Recently, I switched to research in fundamental physics. Some specific areas that I have worked in are:
-* _optical lattice clocks for new tests of relativity (recent research)_;
-* _colloidal migration and assembly in microfluidic channels under combined shear and electrokinetic flows_;
-* _electrochemical treatment and ultrastructure imaging of biofilms_;
-* _impedance spectroscopy of biological tissues_.
+I am a theoretical physicist and Ph.D. researcher at Columbia University in New York. I study quantum gravity and quantum field theory, with a focus on de Sitter space, working with Frederik Denef.
 
-Past Research
-======
-### Thesis: Migration and Assembly of Particles from Microscale Viscous Flows of Colloidal Suspensions (Tentative Title)
+My work has taken me across engineering, biomedical research, experimental atomic physics, and theoretical physics. Before joining Columbia, I completed a Ph.D. in Mechanical Engineering at The Ohio State University and worked as a postdoctoral researcher in atomic physics at the University of Wisconsin–Madison. Across these fields, I have worked with analytical calculations, scientific computing, laboratory experiments, and micro- and nanofabrication.
 
-In this document, I present my experimental discoveries on the dynamics of colloidal particles in Poiseuille flows of particle-laden suspensions in PDMS-glass microchannels under a new kind of lift force generated due to an interplay of applied electric field and shear. I exposit the colloidal particles' detailed migration characteristics under such conditions, including estimation of migration velocity and lift force magnitudes within the channel, demonstrated for the first time, based on cutting-edge 3D confocal imaging with resonant scanning method. This work has a latent potential to control hard-to-manipulate Brownian colloidal particles across the cross-section of microchannels, with technological applications in biology and chemistry, specifically in the sample preparation and analysis stages of lab-on-a-chip platforms.
+[Publications](/publications/) · [CV](/cv/) · [LinkedIn](https://www.linkedin.com/in/varun-lochab-87bb7aa4/) · [Google Scholar](https://scholar.google.com/citations?user=CfP1CHQAAAAJ)
 
-The second part of my thesis focuses on directed assembly of colloidal particles into structures with at least one dimension on the order of ~ cm both inside the microchannels and on external substrates. To this end, I have presented the dynamics of band assembly at both PDMS and glass microchannel walls from the bulk flow in my journal article published in Microfluidics and Nanofluidics, 2019. Further, in the arena of directed self-assembly, I have developed a new way to rapidly (2 orders of magnitudes faster than the state-of-the-art) assemble the colloidal particles into high aspect ratio band structures and grid structures on porous substrates, with potential applications in bulk material synthesis and photonics.
+## Current research: quantum gravity and quantum field theory
 
-### Electrochemical Biofilm Treatment
+I study quantum effects in spacetimes with a positive cosmological constant. My research focuses on de Sitter entropy, gravitational horizon edge modes, and higher-loop vacuum integrals on spheres.
 
-I have also undertaken several other interdisciplinary projects at the intersection of biology and engineering. For example, in my co-first authored work on the electrochemical treatment of _Pseudomonas aeruginosa_ (PA) lawn biofilm (Scientific Reports (2019)), we presented a novel in vitro assay for studying effects of electroceuticals on biofilm-associated bacteria.
+### Horizon edge modes and de Sitter entropy
 
-In another recent paper in Scientific Reports (2020), I present findings on both the ultrastructure of PA biofilms using transmission electron microscopy and the effects of electrochemical treatment on emergent, resistant variants in the PA biofilms.
+With my collaborators, I investigate the horizon degrees of freedom that appear in gravitational partition functions. Our work identifies edge-mode spectra in de Sitter and Nariai spacetimes and develops an effective field theory of horizon fluctuations associated with a de Sitter observer.
 
-These projects present the design and implementation of integrated systems possible only due to an interdisciplinary team effort.
+- [De Sitter Observers and an Effective Field Theory of Horizon Edge Modes](https://arxiv.org/abs/2610.28719) (2026).
+- [Horizon Edge Partition Functions in $\Lambda>0$ Quantum Gravity](https://arxiv.org/abs/2603.20913), *Physical Review Letters* **136**, 151601 (2026).
+- [Gravitons on Nariai Edges](https://arxiv.org/abs/2506.02142), *Physical Review D* **113**, 086006 (2026).
 
-### Impedance Spectroscopy on Biological Tissues
+### Higher-loop calculations on spheres
 
-Lastly, I have worked on the analysis of electrochemical impedance spectroscopy on _ex vivo_ human hepatic tissue from colorectal cancer patients with liver metastasis. Specifically, I have analyzed and reported (Physiological Measurements, 2020, in press) the spatial distribution of electrical properties within the tissue and their relation with histological structure.
+With Frederik Denef, I developed a framework for evaluating higher-loop scalar-field integrals on spheres. It combines total-derivative identities and edge-contraction relations into a coupled linear system. We obtained analytic results for vacuum graphs through two loops, providing tools for perturbative quantum field theory on curved spaces.
 
+- [Higher-Loop Vacuum Integrals on $S^D$](https://arxiv.org/abs/2610.30489) (2026).
+
+## Previous research across fields
+
+### Atomic physics: optical lattice clocks
+
+As a postdoctoral researcher in Shimon Kolkowitz's group at the University of Wisconsin–Madison (January–September 2021), I worked on strontium optical lattice clocks and precision frequency measurements. I contributed to the experimental apparatus, data collection, and analysis for differential clock comparisons with a multiplexed optical lattice clock.
+
+- [Differential clock comparisons with a multiplexed optical lattice clock](https://doi.org/10.1038/s41586-021-04344-y), *Nature* **602**, 425–430 (2022).
+
+### Microfluidics: colloidal migration and assembly
+
+During my Ph.D. in Mechanical Engineering at The Ohio State University, I studied how electric fields and fluid flow together move colloidal particles across microchannels. Using three-dimensional confocal imaging, I demonstrated control over particle distributions and obtained the first experimental estimates of the associated lift forces in the channel interior. This work provides ways to manipulate submicrometer particles for separation, concentration, and sample preparation.
+
+I also studied the assembly of colloidal particles into bands at microchannel walls and developed a continuous-flow process for assembling patterned bands and grids on porous substrates. These projects connect fluid dynamics, electrokinetics, and materials assembly.
+
+- [Combined electrokinetic and shear flows control colloidal particle distribution across microchannel cross-sections](https://doi.org/10.1039/D0SM01646B), *Soft Matter* (2021).
+- [Dynamics of colloidal particles in microchannels under combined pressure and electric potential gradients](https://doi.org/10.1007/s10404-019-2304-0), *Microfluidics and Nanofluidics* (2019).
+- [Continuous flow microfluidics for colloidal particle assembly on porous substrates](https://doi.org/10.1039/D2SM01414A), *Soft Matter* (2023).
+
+### Biomedical research: electrochemical biofilm treatment
+
+Working with an interdisciplinary team, I helped develop an in vitro assay for studying electrochemical treatment of *Pseudomonas aeruginosa* biofilms. My work included electrochemical characterization, transmission electron microscopy of biofilm ultrastructure, and studies of antibiotic-resistant variants. The broader collaboration also investigated electroceutical wound dressings.
+
+- [Electroceutical treatment of Pseudomonas aeruginosa biofilms](https://doi.org/10.1038/s41598-018-37891-y), *Scientific Reports* (2019; co-first author).
+- [Ultrastructure imaging and electroceutical treatment of resistant biofilm variants](https://doi.org/10.1038/s41598-020-66823-y), *Scientific Reports* (2020).
+
+### Biomedical research: electrical properties of tissue
+
+I analyzed electrochemical impedance spectroscopy measurements of ex vivo human liver tissue with metastatic colorectal cancer. This work examined how electrical properties vary across the tissue and how those variations relate to its histological structure.
+
+- [Evaluation of electrical properties of ex vivo human hepatic tissue with metastatic colorectal cancer](https://doi.org/10.1088/1361-6579/abaa55), *Physiological Measurement* (2020).
+
+### Engineering: engine testing and development
+
+Before graduate school, I worked as an Assistant Manager in Research and Development at Hero MotoCorp (August 2013–May 2015). My work included motorcycle powertrain testing on AVL engine test beds, analysis of component performance and efficiency, and supervision of routine testing shifts.
+
+See my [publications](/publications/) for papers across these research areas and my [CV](/cv/) for education, experience, and technical skills.

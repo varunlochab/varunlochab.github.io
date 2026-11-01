@@ -1,82 +1,78 @@
 ---
 layout: archive
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my academic CV (PDF)](/files/Varun-Lochab-CV.pdf) · [Publication list (PDF)](/files/Varun-Lochab-Publications.pdf)
 
-Education
-======
-* B.Tech. in Mechanical Engineering, Indian Institute of Technology (ISM), Dhanbad, 2009-13 (formerly known as Indian School of Mines, Dhanbad)
-* M.S. in Mechanical Engineering, The Ohio State University
-* Ph.D in Mechanial Engineering, The Ohio State University, 2015-20 (expected)
+## Education
 
-Coursework Highlights
-======
+- **Ph.D. in Physics**, Columbia University, September 2021–present; expected Spring 2027. Advisor: Frederik Denef.
+- **M.Phil. in Physics**, Columbia University, May 2025.
+- **M.A. in Physics**, Columbia University, May 2023.
+- **Ph.D. in Mechanical Engineering**, The Ohio State University, December 2020. Advisor: Shaurya Prakash.
+- **M.S. in Mechanical Engineering**, The Ohio State University, August 2020.
+- **B.Tech. in Mechanical Engineering**, Indian Institute of Technology (ISM), Dhanbad, 2013.
 
-• Honors Intermediate Electricity and Magnetism • Honors Advanced Electricity and Magnetism • Honors Quantum Mechanics 2 • Statistical Mechanics (on-going) • Molecular Simulation of Materials • Numerical and Statistical Methods • Intermediate Numerical Methods • Intermediate Fluid Mechanics • Intermediate Heat Transfer • Solid State Microelectronics Laboratory • Nanotechnology and Biomimetics • Electrochemistry • Introduction to Microfluidics and Nanofluidics • Mechanics of Biomolecular Systems • Electrical Technology • Applied Electrical Engineering • Mechanical Vibrations • Measurements and Control
+## Experience
 
-_Supplementary Online Coursework:_ • Quantum Mechanics for Scientists and Engineers ([Online Course](/files/QuantumMechanics_Certificate1.pdf)) • Introduction to Complex Analysis ([Online Course](/files/Certificate_ComplexAnalysis.pdf)) • Astrophysics ([Online Course 1](/files/Certificate1_Astronomy.pdf), [Online Course 2](/files/Certificate2_Astronomy.pdf)) • Semiconductor Physics (on-going) • Data-driven Astronomy (on-going) • Quantum Optics (on-going)
+### Columbia University · September 2021–present
 
-Work experience
-======
-* Summer 2020: Graduate Research Associate
-  * Department of Mechanical and Aerospace Engineering
-  * The Ohio State University
-  * Supervisor: Dr. Shaurya Prakash
+**Graduate Teaching & Research Assistant, Department of Physics**
 
-* Spring 2020: Graduate Teaching Assistant
-  * Course: Introduction to Measurements and Data Analysis in Mechanical Engineering
-  * Department of Mechanical and Aerospace Engineering
-  * The Ohio State University
-  * Supervisor: Dr. Vishnu Sundaresan, Dr. Matthew Detrick
-  * Duties: Instructed four lab sections per week, demonstrated experiments, taught data collection and analysis using LabVIEW and MATLAB 
+Research in quantum gravity and quantum field theory, focusing on de Sitter entropy, higher-loop vacuum integrals on spheres, and gravitational horizon edge modes. Advisor: Frederik Denef. Research assistant in Summer 2025 and Summer 2026; teaching assistant in other terms.
 
-* Spring 2016 - Fall 2019: Graduate Research Associate
-  * Department of Mechanical and Aerospace Engineering
-  * The Ohio State University
-  * Supervisor: Dr. Shaurya Prakash
-  
-* Fall 2013 - Spring 2015: Assistant Manager
-  * Research and Development, Enginer Testing Department
-  * Hero MotoCorp Ltd., India
-  
-Skills
-======
-* 4 years’ clean room experience in micro- and nanofabrication processes for microfluidic and nanofluidic applications.
-* Trained on semiconductor device fabrication including photolithography, oxidation, diffusion, chemical processes, reactive ion etching, and metallization.
-* 3 years’ experience in biosafety level 2 (BSL-2) lab for microbiology research.
-* Imaging and spectroscopy experience: Transmission Electron Microscopy, Scanning Electron Microscopy, Atomic Force Microscopy, Confocal Fluorescence Microscopy, Brightfield/Darkfield/Phase-contrast Microscopy, Raman Spectroscopy, Fourier-transform Infrared Spectroscopy (FTIR) and Microscopy.
-* Software: LabVIEW, MATLAB, COMSOL Multiphysics, Python, AutoCAD, CATIA, MS Office.
+### University of Wisconsin–Madison · January–September 2021
 
-First-author Journal Publications
-======
-* V. Lochab, A. Yee, M. Yoda, A. T. Conlisk., S. Prakash. Ultrastructure imaging of Pseudomonas aeruginosa lawn biofilms and eradication of the tobramycin-resistant variants under _in vitro_ electroceutical treatment.  _Scientific Reports_ 10, 9879 (2020).
-* V. Lochab, T. H. Jones, E. Alkandry, J. D. West, M. Abdel-Rahman, V. V. Subramaniam, and S. Prakash. Evaluation of electrical properties of _ex vivo_ human hepatic tissue with metastatic colorectal cancer. _Physiological Measurement_, 2020 (In press).
-* V. Lochab, A. Yee, M. Yoda, A. T. Conlisk., S. Prakash. Dynamics of colloidal particles in microchannels under combined pressure and electric potential gradients. _Microfluidics and Nanofluidics_ (2019) 23: 134.	
-* D.H. Dusane, V. Lochab., T.  Jones, C.W. Peters, D. Sindeldecker, A. Das, S. Roy, C. K. Sen, V. V. Subramaniam, D.J. Wozniak, and S. Prakash, P. Stoodley. Electroceutical treatment of Pseudomonas aeruginosa biofilms. _Scientific reports_ (2019), 9(1). Co-first author.
-* V. Lochab and S. Prakash. Electrophoresis-induced lateral migration of colloidal particles in combined Poiseuille and electrokinetic flows. Projected submission by August 2020.
-* V. Lochab and S. Prakash. Self-assembly of colloidal particles into high-aspect ratio structures on nanoporous substrates. Projected submission by August/September 2020.
-  
-Other Publications in Journals and Conference Proceedings
-======
-* S. Roy, S. Prakash, S. S. Mathew-Steiner, P. D. Ghatak, V. Lochab, T. H. Jones, P. M. Sundaram, G. M. Gordillo, V. V. Subramaniam. C. K. Sen, Disposable patterned electroceutical dressing (ped-10) is safe for treatment of open clinical chronic wounds. _Advances in Wound Care_ (2019), 8 (4).
-* R. Heald, M. Bennett, V.V. Subramaniam, D. Dusane, V. Lochab, P. M. Sundaram, S. Salyer, J. D. West, P. Stoodley, and S. Prakash. Printed electroceutical dressings for the inhibition of biofilms and treatment of chronic wounds. _Journal of Microelectromechanical Systems_ (2020).
-* V. Lochab, A. Yee, Y. Li, M. Yoda, A. T. Conlisk, and S. Prakash. Directed self-assembly of colloidal particles for high aspect ratio bands. Head Workshop 2018: A Solid-State Sensors, Actuators and Microsystems Workshop. 
-* V. Lochab, E. Alkandry, T.H. Jones, M. Abdel-Rahman, E. W. Martin Jr., C. R. Schmidt, S.R. Abdel-Misih, M. Bloomston, V.V. Subramaniam, and S. Prakash. µ-Electrochemical impedance spectroscopy for identifying spatial heterogeneity in tumor bearing hepatic tissue. The 21st International Conference on Miniaturized Systems for Chemistry and Life Sciences, µTAS 2017.
-* V. Lochab, T. H. Jones, D. H. Dusane, C. K. Sen, S. Roy, P. Stoodley, D. Wozniak, V. V. Subramaniam, and S. Prakash. Mechanistic determination of electroceutical bactericidal effects on Pseudomonas aeruginosa biofilms. The 21st International Conference on Miniaturized Systems for Chemistry and Life Sciences, µTAS 2017. 
-* K. Rangharajan, V. Lochab and S. Prakash. Desalting high salinity shale flowback water via high-flux nanofluidic evaporation-condensation. IEEE 30th International Conference on Micro-Electro-Mechanical Systems (MEMS), Las Vegas, NV, 2017, pp. 60-63.
-* C. Boone, V. Lochab, M. Fuest, and S. Prakash. Time-dependent gating in nanofluidic channels for active electric double layer modulation for ion transport control. Technical Digest of the Hilton Head Workshop 2016: A Solid-State Sensors, Actuators and Microsystems Workshop, Hilton Head, South Carolina. 
+**Postdoctoral Researcher, Department of Physics**
 
-Other Posters, Presentations and Conference Abstracts
-======
+Experimental atomic physics research on strontium optical lattice clocks and precision frequency measurements in Shimon Kolkowitz's group.
 
-* D. Dusane, V. Lochab, T. Jones, C. Sen, V. Subramaniam, D. Wozniak, S. Prakash, and P. Stoodley, Mechanism of killing of Pseudomonas aeruginosa and Staphylococcus aureus biofilms by electroceutical wound dressing. Bacteria-Material Interactions 2017, 4th Stevens conference on Bacteria-Material interactions, Stevens Institute of Technology, Hoboken, New Jersey, USA, June 14-15, 2017. 
-* D. Dusane, V. Lochab, T. Jones, S. Matthew, D. Wozniak, C. Sen, V. Subramaniam, S. Prakash, P. Stoodley, Unraveling the mechanism underlining killing of Pseudomonas aeruginosa biofilms by silver patterned electroceutical dressing (PED). 10th Annual Translational to Clinical (T2C) Regenerative Medicine Wound Care Conference, Columbus, OH, USA, March 9-11, 2017.
-* S. Prakash and V. Lochab, Colloidal particle migration within microchannels in combined Poiseuille and electrokinetic flows. 72nd Annual Meeting of the APS Division of Fluid Dynamics, 2019.
-* S. Prakash and V. Lochab, Electrohydrodynamic printing of pre-assembled colloidal particle structures. 71st Annual Meeting of the APS Division of Fluid Dynamics, 2018.
-* M. Yoda, A. Yee, V. Lochab, S. Prakash, Colloidal band assembly in different microchannels. 70th Annual Meeting of the APS Division of Fluid Dynamics, 2017.
+### The Ohio State University · August 2015–December 2020
 
+**Graduate Teaching & Research Assistant, Department of Mechanical and Aerospace Engineering**
+
+Research in colloidal transport, microfluidics and electrokinetics, micro- and nanofabrication, and electrochemical studies of biological systems. Advisor: Shaurya Prakash. Research assistant throughout; teaching assistant for Measurement Systems and Data Analysis in Spring 2020.
+
+### Hero MotoCorp · August 2013–May 2015
+
+**Assistant Manager, Research and Development, Engine Testing**
+
+Motorcycle powertrain testing on AVL engine test beds, analysis of component performance and efficiency, and supervision of routine testing shifts.
+
+## Fellowships and awards
+
+- Pfister Fellowship, Columbia University, Spring 2024.
+- Charles Townes Fellowship, Columbia University, Fall 2021.
+- Future Academic Scholars Training (FAST) Fellowship, The Ohio State University, 2017–2018.
+- Center for Energy Research, Training, and Innovation (CERTAIN) Travel Award, The Ohio State University, 2018.
+- Student Author Travel Award, Hilton Head Workshop, 2018.
+- Member of the IIT (ISM) Dhanbad Formula Student team: third in design at SUPRA SAEINDIA 2012 and first in autocross at SUPRA SAEINDIA 2011.
+
+## Teaching
+
+Graduate and undergraduate physics courses at Columbia, and Measurement Systems and Data Analysis at Ohio State. See the [teaching page](/teaching/) for the course list and earlier teaching evaluations.
+
+## Technical skills
+
+### Theory and computation
+
+- Quantum field theory and quantum gravity; higher-loop vacuum integrals on spheres.
+- Python, C++, Mathematica, MATLAB, and COMSOL Multiphysics.
+- Finite-difference methods, Monte Carlo methods, and basic molecular dynamics simulations using NAMD.
+
+### Experimental work and engineering
+
+- Micro- and nanofabrication: five years of cleanroom experience, with training in photolithography, oxidation, diffusion, chemical processes, reactive ion etching, and metallization.
+- Strontium optical lattice clocks and precision frequency measurements.
+- Electron, atomic force, and confocal fluorescence microscopy; Raman and Fourier-transform infrared spectroscopy.
+- Electrochemical measurements and three years of microbiology research in a BSL-2 laboratory.
+- Engine testing and development; AutoCAD and CATIA.
+
+## Publications
+
+My [publications page](/publications/) includes quantum gravity and field theory, atomic physics, microfluidics, microbiology, and physiology, along with conference papers and abstracts.
